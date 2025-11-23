@@ -25,6 +25,7 @@ It focuses on clean layout, responsive design, and basic UI styling using HTML a
 
 ---
 
+
 ## 📷 Screenshot
 <img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/6300a01d-69af-493a-b4d8-ffbf1bc9a77d" />
  
