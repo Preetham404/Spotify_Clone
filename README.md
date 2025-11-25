@@ -6,7 +6,7 @@ It looks and feels similar to Spotify’s web player UI — created just for pra
 ---
 
 ## 📝 Description
-This project is a front-end clone of the Spotify music player interface.  
+This project is a front - end clone of the Spotify music player interface.  
 It focuses on clean layout, responsive design, and basic UI styling using HTML and CSS only.
 
 ---
