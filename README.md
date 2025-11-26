@@ -1,7 +1,7 @@
 # 🎧 Spotify Clone
 
 A simple **Spotify Clone** built using **HTML and CSS**.  
-It looks and feels similar to Spotify’s web player UI — created just for practice and learning frontend design.
+It looks and feels similar to Spotify’s web player UI  — created just for practice and learning frontend design.
 
 ---
 
